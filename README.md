@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, Soy Yilmer</h1>
 <h3 align="center">Ingeniero de Sistemas, Apasionado por el machine learning y la creación de diseños e interfaces modernas y eficiente.</h3>
 
+![https://github.com/YilmerTapias]
+(https://raw.githubusercontent.com/YilmerTapias/YilmerTapias/master/Banner-Principal.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/yilmer.tapiasoto.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yilmer.tapiasoto.3" height="30" width="40" /></a>
