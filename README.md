@@ -1,8 +1,5 @@
-<h1 align="center">Hola 👋, Soy Yilmer</h1>
-<h3 align="center">Ingeniero de Sistemas, Apasionado por el machine learning y la creación de diseños e interfaces modernas y eficiente.</h3>
-
-![https://github.com/YilmerTapias]
-(https://raw.githubusercontent.com/YilmerTapias/YilmerTapias/master/Banner-Principal.png)
+<h1 align="center">Hola 👋, Soy</h1>
+<img class="avatar" src="https://raw.githubusercontent.com/YilmerTapias/YilmerTapias/master/Banner-Principal.png" alt="Ney">	
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
