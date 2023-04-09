@@ -3,7 +3,7 @@
 
 <h3 align="left">Puedes contactarme personalmente a:</h3>
 <p align="left">
-<a href="https://www.facebook.com/yilmer.tapiasoto.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yilmer.tapiasoto.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" alt="YilmerTapias yilmer tapias github" /></a>
 </p>
 
 <h3 align="left">Lenguajes y entornos que manejo y conozco:</h3>
